@@ -1,5 +1,5 @@
 # Nayely Cruz
-[About Me](#about-me) | [Projects](#project) | [Blog](#blog) | [Contact](#contact)
+[About Me](#about-me) | [Projects](#project) | [Blog](#blog) 
 
 ---
 
@@ -17,7 +17,3 @@ Using data about people means we must handle privacy, consent, and even fairness
 
 Through this course I hope to better understand how to ask the "right" questions in order to interpret and analyze data responsibly. I also want to learn more hard skills such as modeling, visualization, and statistical analysis. I believe these skills will benefit me the most in the everyday life of a data scientist. It will help make more informed decisions and leave less room for biases. 
 
-
-## Contact
-[Linkedin](linkedin.com/in/nayely-cruz-525912304)
-[Email](nayelycruz2204@gmail.com)
